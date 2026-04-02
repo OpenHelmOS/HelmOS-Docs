@@ -16,11 +16,11 @@ The project is dual-licensed under GPL v3 and a commercial license. Community mo
 
 | Kit | Description | Price |
 |-----|-------------|-------|
-| Starter Kit | Core RPi module, 4 built-in channels | ~250€ |
-| Expansion Kit | 8-channel universal module | ~65€ |
-| Autopilot Kit | Hydraulic pump + remote control | ~212€ |
-| Environment Kit | Temperature, humidity, bilge sensors | ~67€ |
-| Display Kit | 12" IP67 touchscreen display | ~354€ |
+| Starter Kit | Core RPi module, 4 built-in channels |
+| Expansion Kit | 8-channel universal module |
+| Autopilot Kit | Hydraulic pump + remote control |
+| Environment Kit | Temperature, humidity, bilge sensors |
+| Display Kit | 12" IP67 touchscreen display |
 
 ---
 
